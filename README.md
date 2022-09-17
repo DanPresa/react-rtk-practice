@@ -4,7 +4,7 @@
 
 ### As a todo application where we can mark as finish a task and show all, complete and active task deppending on its status
 
-I decided using these technologies necause Redux-toolkit is a powerfull tool for react to pass data through components with its state management.
+I decided using these technologies because Redux-toolkit is a powerfull state management tool for react to pass data through components with.
 
 ## Tech
 
