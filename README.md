@@ -18,14 +18,14 @@ watch the results in the right.
 
 ## First step
 
-#### Please download the project from [Github]()
+#### Please download the project from [Github](https://github.com/DanPresa/react-rtk-practice)
 
 ## Second step
 
 #### Go to the root folder in your **cmd**
 
 ```sh
-cd react-todo-ts-rtk
+cd react-rtk-practice
 ```
 
 #### Inside the root folder follow the installation steps
