@@ -59,6 +59,9 @@ Or
 yarn dev
 ```
 
+# Lastly
+#### Open up your browser and type in the url: _localhost:3000_
+
 ## Plugins
 
 Instructions on how to use them in your own application are linked below.
